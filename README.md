@@ -7,8 +7,8 @@ Static one-page site for Nebula Juris LLP (LLPIN ADD-8580), a law and accounting
 - `assets/style.css`, `assets/main.js`, `assets/logo.svg`
 - `.nojekyll` — tells GitHub Pages to serve the files without Jekyll
 
-## Before going live
-Replace the placeholder email and phone (search for `TODO`) in `index.html` and `assets/main.js`.
+## Contact details
+The email and phone appear in `index.html` (contact section and structured data) and `assets/main.js` (`FIRM_EMAIL`, used by the contact form).
 
 ## Publish on GitHub Pages
 1. Create an empty public repository on GitHub, e.g. `nebula-juris-website`.

@@ -1,6 +1,5 @@
 (function () {
-  // TODO: replace with the firm's real inbox (also update index.html)
-  var FIRM_EMAIL = "info@nebulajuris.in";
+  var FIRM_EMAIL = "subi@nebulajuris.in";
 
   // Bar Council disclaimer: shown once per browser session
   var disclaimer = document.getElementById("disclaimer");
